@@ -333,7 +333,7 @@ const DashboardPage = props => {
                   {renderListTitle(1, 'Model')}
                   {renderListTitle(1, 'Order Date')}
                   {renderListTitle(0.6, null)}
-                  {renderListTitle(2.2, 'Service Time')}
+                  {renderListTitle(2.2, 'Status')}
                 </View>
                 <View style={{ flex: 8, marginTop: 10 }}>
                   <ScrollView>
